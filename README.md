@@ -6,7 +6,7 @@ A simple Android app that helps users learn French color names with audio pronun
 
 ⬇️ Download the latest APK from the Releases section:
 
-https://github.com/Jayant134/French-Teacher/releases/latest
+https://github.com/Jayant134/French-Teacher/releases/download/v1/app-debug.apk
 
 ## Screenshot
 
